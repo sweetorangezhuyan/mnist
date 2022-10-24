@@ -14,3 +14,20 @@ The prediction results of the **CNN model** on the test data, the accuracy reach
 Experimental report
 ### Execution information
 Just run the .py file directly.
+
+
+## Github 操作流程
+### computer side
+git init
+
+git add .
+
+git commit -m '注释'
+
+git branch -m main
+
+git remote remove origin
+
+git remote add origin git@github.com:sweetorangezhuyan/mnist.git
+
+git push -u origin main
