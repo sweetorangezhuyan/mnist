@@ -31,3 +31,9 @@ git remote remove origin
 git remote add origin git@github.com:sweetorangezhuyan/mnist.git
 
 git push -u origin main
+
+git pull 下拉
+
+git push
+
+git stash
